@@ -1,14 +1,14 @@
 ## csv to json converter
 
 ### Requirements
-This script requires python 3
+This script requires python 3.
 Currently using python 3.11.
 
 ### Use
 
 Place the csv file to be converted in the root directory
 
-from the root directory, run the command
+In the root directory, run the command
 ```
 python main.py
 ```
